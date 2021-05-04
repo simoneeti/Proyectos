@@ -1,9 +1,9 @@
 # miRepo
 ### Simón Vintrob
 ### vintrob.simon@gmail.com
-3d: pseudo-pong (canvas js - sin finalizar)
-flappy bird: flappy bird (canvas js)
-pixeles: proyectito para jugar con pixeles de colores (canvas js - sin finalizar)
+3d: pseudo-pong (canvas js - sin finalizar) <br />
+flappy bird: flappy bird (canvas js) <br />
+pixeles: proyectito para jugar con pixeles de colores (canvas js - sin finalizar) <br />
 redescena: scraper de la base de datos de redescena.net (node)
 snake: arcade snake (canvas js - sin finalizar)
 space invaders: arcade space invaders (canvas js - sin finalizar)
